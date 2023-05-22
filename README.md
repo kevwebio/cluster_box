@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cluster_corner_render.png" width=50%>
+</p>
+
 # Cluster Box 
 Using parametric JSCAD to develop 3D-printable parts for easily stacking various shaped thin clients in a self-contained edge cluster that can fit into a bookshelf cubby
 
